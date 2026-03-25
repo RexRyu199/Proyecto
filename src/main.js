@@ -6,3 +6,5 @@ console.log('Modulo de fiscalizacion de impuestos');
 console.log('Modulo de gestion de obras');
 
 console.log('Modulo de solicitudes de transparencia');
+
+console.log('Generador de reportes ejecutado');
